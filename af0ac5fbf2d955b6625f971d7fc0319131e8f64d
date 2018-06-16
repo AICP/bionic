@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8169b59f_b2300301",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 683
+      },
+      "writtenOn": "2018-06-16T13:03:55Z",
+      "side": 1,
+      "message": "correct 8843457f01bc6c2641f7d9b5233eb383036e80a3",
+      "range": {
+        "startLine": 9,
+        "startChar": 20,
+        "endLine": 9,
+        "endChar": 60
+      },
+      "revId": "af0ac5fbf2d955b6625f971d7fc0319131e8f64d",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
+    }
+  ]
+}
