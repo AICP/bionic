@@ -219,7 +219,7 @@ static int _hcfilemmap(void)
 	const char *p, *pend;
 	uint32_t c_alloc;
 
-	h_fd = open(_PATH_HOSTS, O_RDONLY);
+	h_fd = open(gethostsfile(), O_RDONLY);
 	if (h_fd < 0)
 		return -1;
 	if (flock(h_fd, LOCK_EX) != 0) {

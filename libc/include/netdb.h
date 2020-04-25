@@ -239,6 +239,9 @@ struct servent* getservbyport(int __port_in_network_order, const char* __proto);
 struct servent* getservent(void);
 void setservent(int __stay_open);
 
+/* Additional /etc/hosts indirection for toggle-able ad-block */
+const char* gethostsfile();
+
 __END_DECLS
 
 #endif
