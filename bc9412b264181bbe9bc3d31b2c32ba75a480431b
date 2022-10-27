@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7016009b_20a33430",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2022-10-27T08:16:08Z",
+      "side": 1,
+      "message": "What about? https://github.com/AICP/packages_modules_DnsResolver/blob/53c796b70ab69111a123ecc6a4ea009212a35c81/getaddrinfo.cpp#L257\n\nHow is this being tested?",
+      "revId": "bc9412b264181bbe9bc3d31b2c32ba75a480431b",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
